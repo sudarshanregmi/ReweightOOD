@@ -1,0 +1,10 @@
+network:
+  name: t2fnorm_net
+  pretrained: False
+  checkpoint: none           # ignore if pretrained is false
+  tau: 0.1
+
+  backbone:
+    name: resnet18_32x32
+    pretrained: False
+    checkpoint: none
