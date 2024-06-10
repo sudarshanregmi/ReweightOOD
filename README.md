@@ -1,8 +1,8 @@
 # ReweightOOD: Loss Reweighting for Distance-based OOD Detection 
 This codebase provides a Pytorch implementation of:
 
->**ReweightOOD: Loss Reweighting for Distance-based OOD Detection.**
-[![ReweightOOD](https://img.shields.io/badge/CVPRW'24-ReweightOOD-f4d5b3?style=for-the-badge)](https://openreview.net/pdf?id=OJoMzslBIa)  
+>**ReweightOOD: Loss Reweighting for Distance-based OOD Detection.**  
+[![ReweightOOD](https://img.shields.io/badge/CVPRW'24-ReweightOOD-f4d5b3?style=for-the-badge)](https://openreview.net/pdf?id=OJoMzslBIa)   
 Sudarshan Regmi, Bibek Panthi, Yifei Ming, Prashnna K. Gyawali, Danail Stoyanov, Binod Bhattarai
 
 ## Abstract
