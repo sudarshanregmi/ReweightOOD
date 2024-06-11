@@ -2,7 +2,7 @@
 This codebase provides a Pytorch implementation of:
 
 >**ReweightOOD: Loss Reweighting for Distance-based OOD Detection.**  
-[![ReweightOOD](https://img.shields.io/badge/CVPRW'24-ReweightOOD-f4d5b3?style=for-the-badge)](https://openreview.net/pdf?id=OJoMzslBIa)   
+[![ReweightOOD](https://img.shields.io/badge/CVPRW'24-ReweightOOD-f4d5b3?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Regmi_ReweightOOD_Loss_Reweighting_for_Distance-based_OOD_Detection_CVPRW_2024_paper.pdf)  
 Sudarshan Regmi, Bibek Panthi, Yifei Ming, Prashnna K. Gyawali, Danail Stoyanov, Binod Bhattarai
 
 ## Abstract
@@ -22,7 +22,7 @@ Out-of-Distribution (OOD) detection is crucial for ensuring safety and reliabili
 pip install git+https://github.com/Jingkang50/OpenOOD
 ```
 
-## Method Illustration
+### Method Illustration
 <p align="center">
   <img width="800" src="ReweightOOD.png">
 </p>
@@ -136,12 +136,14 @@ Pre-trained models are available in the given links:
 
 ### Please consider citing our work if you find it useful.
 ```
-@article{regmi2023reweightood,
-  title={ReweightOOD: Loss Reweighting for Distance-based OOD Detection},
-  author={Regmi, Sudarshan and Panthi, Bibek and Ming, Yifei and Gyawali, Prashnna Kumar and Stoyanov, Danail and Bhattarai, Binod},
-  year={2023}
+@InProceedings{Regmi_2024_CVPR_1,
+    author    = {Regmi, Sudarshan and Panthi, Bibek and Ming, Yifei and Gyawali, Prashnna K and Stoyanov, Danail and Bhattarai, Binod},
+    title     = {ReweightOOD: Loss Reweighting for Distance-based OOD Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {131-141}
 }
 ```
-
 ### Acknowledgment
 This codebase builds upon [OpenOOD](https://github.com/Jingkang50/OpenOOD).
