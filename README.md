@@ -19,7 +19,7 @@ Out-of-Distribution (OOD) detection is crucial for ensuring safety and reliabili
 
 <p style="display: flex; align-items: center;">
     <span>Check other works:</span>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CVPRW'24-T2FNorm-fdd7e6?style=for-the-badge" alt="t2fnorm" style="margin-right: 10px;">
+    <a href="https://github.com/sudarshanregmi/t2fnorm"><img src="https://img.shields.io/badge/CVPRW'24-T2FNorm-fdd7e6?style=for-the-badge" alt="t2fnorm" style="margin-right: 10px;"></a>
 </p>
 
 ### Follow [OpenOOD](https://github.com/Jingkang50/OpenOOD) official instruction to complete the setup.
