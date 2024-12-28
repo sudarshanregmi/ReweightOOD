@@ -17,10 +17,10 @@ Out-of-Distribution (OOD) detection is crucial for ensuring safety and reliabili
 ➤ **ranks 9th** in the *far-OOD AUROC* metric on ImageNet-1k datasets (OOD).  
 ➤ **ranks 6th** in the *far-OOD AUROC* metric on ImageNet-1k datasets (FSOOD).  
 
-<p style="display: flex; align-items: center;">
-    <span>Check other works:</span>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/sudarshanregmi/t2fnorm"><img src="https://img.shields.io/badge/CVPRW'24-T2FNorm-fdd7e6?style=for-the-badge" alt="t2fnorm" style="margin-right: 10px;"></a>
-</p>
+<span>Check other works:</span>
+
+<a href="https://github.com/sudarshanregmi/ascood"><img src="https://img.shields.io/badge/arXiv'24-ASCOOD-fdd7e6?style=for-the-badge" alt="ascood" style="margin-right: 10px;"></a> <br>
+<a href="https://github.com/sudarshanregmi/t2fnorm"><img src="https://img.shields.io/badge/CVPRW'24-ReweightOOD-fdd7e6?style=for-the-badge" alt="t2fnorm" style="margin-right: 10px;"></a>
 
 ### Follow [OpenOOD](https://github.com/Jingkang50/OpenOOD) official instruction to complete the setup.
 ```
